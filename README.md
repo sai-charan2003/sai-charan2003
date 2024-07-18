@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saicharan2003" target="blank"><img src="https://img.shields.io/twitter/follow/saicharan2003?logo=twitter&style=for-the-badge" alt="saicharan2003" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [nsaicharan.onrender.com]([nsaicharan.onrender.com](https://nsaicharan.onrender.com/))
+
 
 - 📫 How to reach me **saicharannallapaneni@gmail.com**
 
