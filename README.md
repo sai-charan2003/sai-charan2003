@@ -11,9 +11,7 @@
   <a href="https://x.com/saicharan2003" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="mailto:saicharannallapaneni@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  
 </div>
 
 ###
@@ -22,7 +20,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as Android Developer<br><br>👨‍💻 Checkout my Portfolio at <a href="https://nsaicharan.onrender.com/" target="_blank">nsaicharan.onrender.com</a></p>
+<p align="left">🔭 I’m currently working as Android Developer<br><br>👨‍💻 Checkout my Portfolio at <a href="https://your-portfolio-link.com" target="_blank">nsaicharan.onrender.com</a><br><br>📧 You can reach me at <a href="mailto:saicharannallapaneni@gmail.com">saicharannallapaneni@gmail.com</a></p>
 
 ###
 
