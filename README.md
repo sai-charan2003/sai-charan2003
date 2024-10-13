@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as Android Developer<br><br>👨‍💻 Checkout my Portfolio at</p>
+<p align="left">🔭 I’m currently working as Android Developer</p>
 
 ###
 
@@ -69,3 +69,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-charan2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
+
+###
