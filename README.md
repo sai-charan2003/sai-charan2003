@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  />
 </div>
 
 ###
@@ -11,7 +11,6 @@
   <a href="https://x.com/saicharan2003" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  
 </div>
 
 ###
@@ -20,7 +19,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as Android Developer<br><br>👨‍💻 Checkout my Portfolio at <a href="https://your-portfolio-link.com" target="_blank">nsaicharan.onrender.com</a><br><br>📧 You can reach me at <a href="mailto:saicharannallapaneni@gmail.com">saicharannallapaneni@gmail.com</a></p>
+<p align="left">🔭 I’m currently working as Android Developer<br><br>👨‍💻 Checkout my Portfolio at</p>
 
 ###
 
@@ -29,19 +28,23 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="supabase logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ktor" height="45" alt="ktor logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
 </div>
 
 ###
