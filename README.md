@@ -64,10 +64,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-charan2003&radius=16&theme=nord&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-charan2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
