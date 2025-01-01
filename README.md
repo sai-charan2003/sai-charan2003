@@ -23,6 +23,7 @@
 ###
 
 <p align="left">🔭 I’m currently working as Android Developer</p>
+<p align="left">📖 I’m currently learning Swift and Kotlin Multiplatform.</p>
 
 ###
 
@@ -48,6 +49,8 @@
   <img src="https://skillicons.dev/icons?i=ktor" height="45" alt="ktor logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
 </div>
 
 ###
