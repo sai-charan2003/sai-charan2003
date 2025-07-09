@@ -22,7 +22,6 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as Android Developer</p>
 <p align="left">📖 I’m currently learning Swift and Kotlin Multiplatform.</p>
 
 ###
